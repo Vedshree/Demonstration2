@@ -6,3 +6,4 @@ GitHub offers both plans for private repositories, and free accounts which are c
 As of April 2016, GitHub reports having more than 14 million users and more than 35 million repositories,making it the largest host of source code in the world.
 
 #this is version control system
+GitHub offers both plans for private repositories, and free accounts which are commonly used to host open-source software projects.
